@@ -1,0 +1,3 @@
+module DUPLICATE_CHECKER
+
+go 1.20
